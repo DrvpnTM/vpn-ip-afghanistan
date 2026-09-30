@@ -1,18 +1,17 @@
-# VPN IP Afghanistan — Dr VPN
+# VPN IP Afghanistan — Fast, Secure VPN for Afghanistan
 
-**VPN IP Afghanistan** is a fast, secure and free VPN for Android. Get a **Afghanistan IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Afghanistan** is a free, open-source, ad-free VPN app for Android, built for users in Afghanistan. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Afghanistan (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_af_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-afghanistan/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Afghanistan IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Afghanistan, Afghanistan VPN, VPN IP Afghanistan, Afghanistan IP address, free VPN Afghanistan, buy VPN Afghanistan, fast VPN Afghanistan, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Afghanistan, free VPN Afghanistan, fast VPN, VPN IP Afghanistan, Android VPN, unblock websites Afghanistan.</sub>
